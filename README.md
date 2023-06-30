@@ -13,7 +13,11 @@ nvm install node
 ```
 
 ## Copilot CLI
-From https://githubnext.com/projects/copilot-cli
+From 
+- https://githubnext.com/projects/copilot-cli
+- https://www.npmjs.com/package/@githubnext/github-copilot-cli
+- https://discord.gg/githubnext
+
 ```
 npm install -g @githubnext/github-copilot-cli
 ```
